@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.WF.Calendar.Manual", "Senac.WF.Calendar.Manual.csproj", "{78D687FC-ACEE-48FD-B11E-4F94E20A21AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D687FC-ACEE-48FD-B11E-4F94E20A21AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D687FC-ACEE-48FD-B11E-4F94E20A21AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D687FC-ACEE-48FD-B11E-4F94E20A21AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D687FC-ACEE-48FD-B11E-4F94E20A21AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B3C218-413C-4CAE-A085-86C11678D9CF}
+	EndGlobalSection
+EndGlobal
